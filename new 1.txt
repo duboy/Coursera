@@ -1,0 +1,13 @@
+#include <iostream>
+
+class A{
+int v;
+public:
+A next;
+void Funv() {}
+}
+
+int main()
+{
+	
+}
